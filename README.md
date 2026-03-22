@@ -1,1 +1,1 @@
-# elso_projekt
+szia, kész az első projektem
